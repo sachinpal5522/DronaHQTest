@@ -4,7 +4,7 @@
     "template_name": "Shifting_builder_control",
     "description": ".....4dg54sutuurtu............",
     "group_id": "[]",
-    "plugin_id": "1396",
+    "plugin_id": "1461",
     "action": "add",
     "sample_images": "[]",
     "channel_id": "2",
@@ -26,6 +26,6 @@
     "APIDetails": "[]",
     "PDFDetails": "{}"
   },
-  "updated_time": "26-03-2024 15:13:24",
-  "onprem_version": "2.4.1"
+  "updated_time": "28-03-2024 13:50:46",
+  "onprem_version": "2.4.4"
 }

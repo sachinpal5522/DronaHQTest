@@ -4,7 +4,7 @@
     "template_name": "sgse",
     "description": "sagsg",
     "group_id": "[]",
-    "plugin_id": "1470",
+    "plugin_id": "1479",
     "action": "add",
     "sample_images": "[]",
     "channel_id": "2",
@@ -26,6 +26,6 @@
     "APIDetails": "[]",
     "PDFDetails": "{}"
   },
-  "updated_time": "28-03-2024 14:07:15",
+  "updated_time": "29-03-2024 12:34:51",
   "onprem_version": "2.4.4"
 }
